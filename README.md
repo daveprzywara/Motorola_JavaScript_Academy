@@ -41,17 +41,16 @@ console.log(numberOfUsers);
 Pamiętaj, że przy tworzeniu pierwszy raz zmiennej musisz użyć słowa kluczowego **var**, ale przy kolejnym jej użyciu już go nie potrzebujesz.
 
 ## Zadanie 2
-W pliku zadanie2.js stwórz trzy zmienne. Dwie niech przechowują dowolne liczby, a jedna, o nazwie ```result```, niech przechowuje liczbę 0.
+W pliku zadanie2.js stwórz trzy zmienne. Dwie niech przechowują dowolne liczby, a jedna o nazwie ```result```, niech przechowuje liczbę 0.
 Zapisz sumę tych liczb w zmiennej ```result```.
 
 
 ## Zadanie 3
-W pliku zadanie3.js stwórz trzy zmienne. Dwie niech przechowują dowolne stringi, a jedna, o nazwie ```result```, niech przechowuje pusty string, np. ```var result = ""```
+W pliku zadanie3.js stwórz trzy zmienne. Dwie niech przechowują dowolne stringi, a jedna o nazwie ```result```, niech przechowuje pusty string np. ```var result = ""```
 Połącz te stringi za pomocą konkatenacji (+) i zapisz wynik w  zmiennej ```result``` i wypisz go w konsoli.
 
 ## Zadanie 4
-W pliku zadanie4.js stwórz trzy zmienne. Dwie niech przechowują dowolne stringi, a jedna, o nazwie ```result```, niech przechowuje pusty string, np. ```var result = ""```
-Połącz te stringi za pomocą konkatenacji (+) i zapisz wynik w  zmiennej ```result``` i wypisz go w konsoli.
+W pliku zadanie4.js stwórz zmienną i nic do niej nie przypisuj. Następnie wypisz ją w konsoli. Napisz w komentarzu jaka wartość została wypisana w konsoli.
 
 ## Zadanie 5
 W pliku zadanie5.js swtórz dwie zmienne i przypisz do nich dwie wartości logiczne jakie znasz. Porównaj je w konsoli za pomocą operatora ```==```.

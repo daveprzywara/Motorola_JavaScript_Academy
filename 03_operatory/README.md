@@ -2,8 +2,8 @@
 
 #### Schemat rozwiązywania zadań:
 
-* wszystkkie zadania z tego działu rób w pliku script.js,
-* rozdzielaj je komentarzami,
+* wszystkie zadania z tego działu wykonuj w pliku script.js,
+* zadania rozdzielaj komentarzami,
 * pamiętaj o definiowaniu różnych nazw zmiennych w każdym zadaniu, bo inaczej będą się nadpisywać!
 
 ## Zadanie 1

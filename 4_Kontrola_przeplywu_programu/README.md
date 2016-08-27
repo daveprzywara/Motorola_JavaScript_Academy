@@ -9,37 +9,26 @@
 * na samym końcu znajduą się zadania dodatkowe. Nie są one obowiązkowe do zaliczenia preworku,
 ale postaraj się je wykonać.
 
-## Zadanie 1
+#### Zadanie 1
 
 W pliku script.js stwórz dwie zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej ```if ... else ```, wypisz w konsoli, która z nich jest większa.
 
-## Zadanie 2
+#### Zadanie 2
 
 W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej **if**, **else if** i **else**, wypisz w konsoli, która z nich jest większa.
 
-## Zadanie 3
 
-W pliku script.js stwórz zmienną ```rating```, której ustaw dowolną liczbę pomiędzy 0, a 100.
-Następnie za pomocą odpowiednich warunków **if**, **else if** i **else** i punktacji poniżej, wypisz w konsoli jaką ocenę otrzymał student.
-
-0&ndash;39 pkt &ndash; ocena niedostateczna,  
-40&ndash;54 pkt &ndash; ocena dopuszczająca,  
-55&ndash;69 pkt &ndash; ocena dostateczna,  
-70&ndash;84 pkt &ndash; ocena dobra,  
-85&ndash;98 pkt &ndash; ocena bardzo dobra,  
-99&ndash;100 pkt &ndash; ocena celująca.
-
-## Zadanie 4
+#### Zadanie 3
 W pliku script.js stwórz pętle, która 10 razy wypisze w konsoli tekst "Lubię JavaScript".
 
-## Zadanie 5
+#### Zadanie 4
 W pliku script.js stwórz zmienną ```result``` i przypisz do niej liczbę 0. Następnie stwórz pętle, która doda do siebie liczby od 1 do 10.
 
-#### Zadanie 6
+#### Zadanie 5
 W pliku script.js napisz program, który na podstawie wartości zmiennej np. ```var n = 5;``` wypisuje wszystkie liczby od zera do **n**.
 Przy każdej liczbie program ma napisać, czy  liczba jest parzysta czy nie. Np.:
 
-```
+```JavaScript
 0 – parzysta
 1 – nieparzysta
 2 – parzysta
@@ -51,7 +40,7 @@ Przy każdej liczbie program ma napisać, czy  liczba jest parzysta czy nie. Np.
 
 #### Zadanie 6
 W pliku script.js stwórz dwie pętle niezależne i wypisz wartości ich liczników w każdej iteracji. Wykorzystaj:
-konkatenację ```console.log("i= " + i + ", j= " + j);```
+konkatenację np.```console.log("i= " + i + ", j= " + j);```
 
 
 #### Zadanie 7
@@ -92,21 +81,7 @@ Możesz to zadanie rozwiązać na dwa sposoby:
 
 *Wzoruj się na zadaniu poprzednim. Trzeba tutaj trochę pomyśleć i rozumieć pętle zagnieżdżone.*
 
-### Zadanie 9 - dodatkowe
-
-W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n** następujący schemat (tutaj dla ```n = 5```):
-
-```  
-  *   *
-*   *   *
-  *   *  
-*   *   *
-  *   *   
-```
-Użyj do tego pętli zagnieżdżonych, a w wewnętrznej pętli dodaj **if** sprawdzający odpowiedni warunek (jeżeli ```i + j``` jest nieparzyste, to ma być gwiazdka).
-
-
-### Zadanie 10 - dodatkowe
+#### Zadanie 9 - dodatkowe
 
 W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n** następujący schemat (tutaj dla ```n = 5```):
 
@@ -123,7 +98,7 @@ W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n**
 * 2 3 4 5
 ```
 
-### Zadanie 11 - dodatkowe
+#### Zadanie 10 - dodatkowe
 
 W pliku script.js napisz program tworzący tabliczkę mnożenia dla podanej zmiennej **n**. Na przykład dla ```n = 3``` wynik będzie następujący:
 

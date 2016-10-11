@@ -17,13 +17,15 @@ W pliku script.js stwórz 6 zmiennych. Wstaw do nich następujące dane:
 * wartość specjalną
 * tablicę
 
-Dodaj do każdej zmiennej kometarz z informacją jaki typ danych przechowuje ta zmienna oraz wypisz w konsoli wartości tych zmiennych.
+Dodaj do każdej zmiennej kometarz z informacją jaki typ danych przechowuje ta zmienna (do sprawdzenia typu wykorzystaj operator ```typeof```) oraz wypisz w konsoli wartości tych zmiennych.
+
 
 Przykład:
 ```JavaScript
-//Ta zmienna przechowuje typ Number
 var numberOfUsers = 23;
 console.log(numberOfUsers);
+console.log(typeof numberOfUsers);
+//Ta zmienna jest typu number i przechowuje wartość 23
 ```
 
 #### Zadanie 2

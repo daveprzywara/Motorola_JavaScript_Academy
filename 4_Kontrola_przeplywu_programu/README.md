@@ -6,6 +6,7 @@
 * wszystkie zadania z tego działu wykonuj w pliku script.js,
 * zadania rozdzielaj komentarzami,
 * pamiętaj o definiowaniu różnych nazw zmiennych w każdym zadaniu, bo inaczej będą się nadpisywać!
+  (nie dotyczy to pętli- w nich używamy zamiennych ```i``` lub ```j```)
 * na samym końcu znajduą się zadania dodatkowe. Nie są one obowiązkowe do zaliczenia preworku,
 ale postaraj się je wykonać.
 
@@ -15,7 +16,7 @@ W pliku script.js stwórz dwie zmienne przechowujące liczby. Następnie za pomo
 
 #### Zadanie 2
 
-W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej **if**, **else if** i **else**, wypisz w konsoli, która z nich jest większa.
+W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej **if**, **else if** i **else** (wykorzystaj operator logiczny ```&&```), wypisz w konsoli, która z nich jest większa.
 
 
 #### Zadanie 3
@@ -100,7 +101,7 @@ W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n**
 
 #### Zadanie 10 - dodatkowe
 
-W pliku script.js napisz program tworzący tabliczkę mnożenia dla podanej zmiennej **n**. Na przykład dla ```n = 3``` wynik będzie następujący:
+W pliku script.js napisz program tworzący tabliczkę mnożenia dla podanej zmiennej **n**. Wyświetl wynik w konsoli. Na przykład dla ```n = 3``` wynik będzie następujący:
 
 
 <table>

@@ -104,23 +104,9 @@ W pliku script.js napisz program rysujący na podstawie wartości zmiennej **n**
 W pliku script.js napisz program tworzący tabliczkę mnożenia dla podanej zmiennej **n**. Wyświetl wynik w konsoli. Na przykład dla ```n = 3``` wynik będzie następujący:
 
 
-<table>
-  <tr>
-    <td>1 x 1 = 1</td>
-    <td>1 x 2 = 2</td>
-    <td>1 x 3 = 3</td>
-  </tr>
-  <tr>
-    <td>2 x 1 = 2</td>
-    <td>2 x 2 = 4</td>
-    <td>2 x 3 = 6</td>
-  </tr>
-  <tr>
-    <td>3 x 1 = 3</td>
-    <td>3 x 2 = 6</td>
-    <td>3 x 3 = 9</td>
-  </tr>
-</table>
+1 x 1 = 1 | 1 x 2 = 2 | 1 x 3 = 3 <br>
+2 x 1 = 2 | 2 x 2 = 4 | 2 x 3 = 6 <br>
+3 x 1 = 3 | 3 x 2 = 6 | 3 x 3 = 9
 
 
 Do mnożenia liczb użyj operatora *****.

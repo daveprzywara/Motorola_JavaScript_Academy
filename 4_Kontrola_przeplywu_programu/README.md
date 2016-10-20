@@ -16,7 +16,8 @@ W pliku script.js stwórz dwie zmienne przechowujące liczby. Następnie za pomo
 
 #### Zadanie 2
 
-W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej **if**, **else if** i **else** (wykorzystaj operator logiczny ```&&```), wypisz w konsoli, która z nich jest większa.
+W pliku script.js stwórz trzy zmienne przechowujące liczby. Następnie za pomocą instrukcji warunkowej **if**, **else if** i **else**
+(możesz wykorzystać operator logiczny ```&&```, spróbuj sam poszukać o nim informacji), wypisz w konsoli, która z nich jest większa.
 
 
 #### Zadanie 3

@@ -15,7 +15,6 @@ W pliku script.js stwórz 6 zmiennych. Wstaw do nich następujące dane:
 * liczbę + string np. (2 + "dwa")
 * wartość logiczną
 * wartość specjalną
-* tablicę
 
 Dodaj do każdej zmiennej kometarz z informacją jaki typ danych przechowuje ta zmienna (do sprawdzenia typu wykorzystaj operator ```typeof```) oraz wypisz w konsoli wartości tych zmiennych.
 

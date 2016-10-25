@@ -5,6 +5,8 @@
 * wszystkie zadania z tego działu wykonuj w pliku script.js,
 * zadania rozdzielaj komentarzami,
 * pamiętaj o definiowaniu różnych nazw zmiennych w każdym zadaniu, bo inaczej będą się nadpisywać!
+(nie dotyczy to pętli, w których używamy nazw i lub j)
+
 
 #### Zadanie 1
 

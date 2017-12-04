@@ -30,8 +30,10 @@ console.log(typeof numberOfUsers);
 ```
 
 #### Zadanie 2
-W pliku script.js stwórz trzy zmienne. Dwie niech przechowują dowolne liczby, a jedna o nazwie ```result```, niech przechowuje liczbę 0.
-Zapisz sumę tych liczb w zmiennej ```result``` i wypisz wynik w konsoli.
+W pliku script.js stwórz trzy zmienne:
+* dwie zmienne mają przechowywać dowolne liczby,
+* ostatnia o nazwie ```result``` ma przechowywać liczbę 0.
+Następnie zapisz sumę dwóch pierwszych zmiennych w stworzonej wcześniej zmiennej ```result```. Wypisz wynik w konsoli.
 
 
 #### Zadanie 3

@@ -39,7 +39,7 @@ W pliku script.js stwórz tablicę z 10 dowolnymi liczbami oraz zmienną  ```max
 
 #### Zadanie 6
 
-W pliku script.js stwórz tablicę z 10 dowolnymi liczbami (niech kilka będzie takich samych) oraz zmienną ```firstIndex```. W pętli ```for``` sprawdź, która z liczb powatarza się jako pierwsza, przypisz ją do zmiennej ```firstIndex``` i wypisz w konsoli jej indeks.
+W pliku script.js stwórz tablicę z 10 dowolnymi liczbami (niech kilka będzie takich samych) oraz zmienną ```firstIndex```. W pętli ```for``` sprawdź, która z liczb powatarza się jako pierwsza i wypisz w konsoli jej indeks.
 
 Przykładowa tablica:
 

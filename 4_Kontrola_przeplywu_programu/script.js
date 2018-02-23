@@ -1,3 +1,53 @@
+var firstNumber = 5;
+var secondNumber = 10;
+
+if (firstNumber > secondNumber) {
+  console.log("First one is greater.");
+} else {
+  console.log("Second one is greater or equal.");
+}
+
+var numberOne = 10;
+var numberTwo = 20;
+var numberThree = 30;
+
+if (numberOne > (numberTwo && numberThree)) {
+  console.log("Number one is greater.");
+} else if (numberTwo > (numberOne && numberThree)) {
+  console.log("Number two is greater.");
+} else {
+  console.log("Number three is greater or numbers are equal.");
+}
+
+for(var i = 0; i < 10; i++) {
+  console.log("Lubie JavaScript");
+}
+
+var result = 0;
+for(var i = 1; i < 11; i++) {
+  console.log(i);
+}
+
+var n = 6;
+
+for(var i = 0; i < n+1; i++) {
+  if (i % 2 == 0) {
+    console.log(i + " - parzysta");
+  } else {
+    console.log(i + " - nieparzysta");
+  }
+}
+
+
+for(var i = 0; i < 10; i++) {
+  console.log("i = " + i +", j = " + j);
+}
+
+for(var j = 0; j < 10; j++) {
+  console.log("i = " + i +", j = " + j);
+}
+
+
 
 // Zadanie 7
 
@@ -28,4 +78,12 @@ for(var i = 0; i < size; i++) {
 
     //Wypisuje w konsoli zmienną lineOfStars (jej zawartość - dlatego jest bez cudzysłosów)
     console.log(lineOfStars);
+}
+
+
+var newStars = "";
+
+for(var i = 1; i < size+1; i++) {
+  newStars += "* "
+  console.log(newStars);
 }
